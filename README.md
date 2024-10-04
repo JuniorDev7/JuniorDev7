@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de JuniorDev7 😁
+## Bem-vindo(a) ao perfil  JuniorDev7 😁
 
  <div>
    <a href="https://github.com/JuniorDev7">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Minhas redes Sociais!
+### Minhas redes Sociais!!
  
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
